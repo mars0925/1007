@@ -7,6 +7,9 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val name = "MMA"
+
+        val name:String = "Mars"
+        val math:Int = 90
+        val eng:Int = 89
     }
 }
