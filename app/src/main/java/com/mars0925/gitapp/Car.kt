@@ -7,4 +7,5 @@ class Car {
     val ID:String = "A001"
     val color:String = "Red"
     val type:String = "SUV"
+    val price:Int = 100000
 }
