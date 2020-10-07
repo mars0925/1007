@@ -6,4 +6,5 @@ package com.mars0925.gitapp
 class Car {
     val ID:String = "A001"
     val color:String = "Red"
+    val price:String = 100000
 }
